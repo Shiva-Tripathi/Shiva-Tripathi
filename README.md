@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiva-Tripathi
-- 👀 I’m interested in Pyton 
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Front End Web development
 - 📫 How to reach me https://www.linkedin.com/in/shiva--tripathi/
 
