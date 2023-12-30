@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiva-Tripathi
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Front End Web development
+- 👀 Learning DSA in CPP
+- 🌱 An active Web Developer
 - 📫 How to reach me https://www.linkedin.com/in/shiva--tripathi/
 
 <!---
