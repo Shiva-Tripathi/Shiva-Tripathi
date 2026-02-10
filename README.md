@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiva-Tripathi
-- 👀 Learning DSA in CPP
-- 🌱 An active Web Developer
+- 👀 Learning to play with Data
+- 🌱 An active Data Analyst
 - 📫 How to reach me https://www.linkedin.com/in/shiva--tripathi/
 
 <!---
