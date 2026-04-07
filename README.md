@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiva-Tripathi
 - 👀 Learning to play with Data
-- 🌱 An active Data Analyst
+- 🌱 Aspiring Data Scientist/ MLE
 - 📫 How to reach me https://www.linkedin.com/in/shiva--tripathi/
 
 <!---
